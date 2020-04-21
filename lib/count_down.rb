@@ -7,4 +7,3 @@ while count > 0 do
 end
 
 p "Happy New Year!"
-  
