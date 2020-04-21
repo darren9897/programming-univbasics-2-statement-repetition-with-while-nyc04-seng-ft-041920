@@ -1,9 +1,9 @@
 count = 10
 
 while count > 0 do
-  p count
+  puts count
   count -=1
 
 end
 
-p "Happy New Year!"
+puts "Happy New Year!"
